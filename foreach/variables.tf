@@ -26,7 +26,7 @@ variable "instances" {
 
 
 variable "zone_id" {
-  default = "Z09916302493ETODPE7QU"
+  default = "Z06532627HTOWBBNRCTT"
 
 }
 
